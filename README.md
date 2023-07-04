@@ -71,7 +71,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-
+<p>Currently, Live Demo is not available for this website</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,13 +87,8 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Fully Functional Computer
+- Web Browser
 
 ### Setup
 
@@ -110,7 +105,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+This webpage cannot be installed.
 
 <!--
 Example command:
@@ -123,7 +118,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+To run the webpage, you will have to download the code and open index.html file on the web browser.
 
 <!--
 Example command:
