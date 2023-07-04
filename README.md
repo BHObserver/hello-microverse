@@ -41,7 +41,7 @@
 
 
 
-**[Hello_Microverse_Project]** is a sigle webpage.
+**[Hello_Microverse_Project]** is a single webpage.
 
 ## 🛠 Built With <a name="built-with"></a>
 
