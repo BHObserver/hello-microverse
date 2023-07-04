@@ -11,8 +11,8 @@
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
@@ -27,23 +27,181 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [hello_microverse_project] <a name="about-project"></a>
+# 📖 [Hello-Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
-**[hello_microverse_project]** is the first project of the first week in Microverse.
+**Hello-Microverse** is a single webpage that is built with html and css code. It has a single line colored-text that is aligned to center of the page.
 
-## 🛠 Built With html and css<a name="built-with"></a>
+## 🛠 Built With <a name="built-with"></a>
+  
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
 
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Structure</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Style</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
+
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+
+- **[Colorful_Text]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+<p>Currently, Live Demo is not available for this website</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Fully Functional Computer
+- Web Browser
+
+### Setup
+
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:bhobserver/hello-microverse.git
+```
+-
+
+### Install
+
+This webpage cannot be installed.
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+To run the webpage, you will have to download the code and open index.html file on the web browser.
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
+
+### Run tests
+
+To run tests, run the following command:
+
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
+
+### Deployment
+
+You can deploy this project using:
+
+<!--
+Example:
+
+```sh
+
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Burhan**
 
-- GitHub: [@githubhandle](https://github.com/bhobserver)
+- GitHub: [@bhobserver](https://github.com/bhobserver)
 
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [Responsiveness] **[new_feature_1]**
+- [Contact_info] **[new_feature_2]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project feel free to clone it and contribute to it.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+
+I would like to thank Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -52,8 +210,8 @@
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,3 +1,5 @@
 h1 {
-  color: steelblue;
+  display: flex;
+  justify-content: center;
+  color: brown;
 }
