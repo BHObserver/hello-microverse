@@ -30,7 +30,7 @@
 # 📖 [Hello-Microverse] <a name="about-project"></a>
 
 
-**[Hello-Microverse]** is a single webpage that is built with html and css code. It has a single line colored-text that is aligned to center of the page.
+**Hello-Microverse** is a single webpage that is built with html and css code. It has a single line colored-text that is aligned to center of the page.
 
 ## 🛠 Built With <a name="built-with"></a>
   
