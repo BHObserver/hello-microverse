@@ -1,0 +1,11 @@
+# .gitignore
+node_modules/
+
+# .gitigonore  test.md
+test.md
+
+# .gitigonore  .vscode
+.vscode
+
+# .gitigonore  .vscode/settings.json
+.vscode/settings.json
