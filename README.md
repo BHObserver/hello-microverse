@@ -1,16 +1,6 @@
 <a name="readme-top"></a>
 
 
-
-<div align="center">
-  
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -37,25 +27,50 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse-Project] <a name="about-project"></a>
+# 📖 [Hello-Microverse] <a name="about-project"></a>
 
 
-
-**[Hello_Microverse_Project]** is a single webpage.
+**[Hello-Microverse]** is a single webpage that is built with html and css code. It has a single line colored-text that is aligned to center of the page.
 
 ## 🛠 Built With <a name="built-with"></a>
+  
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 
+<details>
+  <summary>Structure</summary>
+  <ul>
+    <li><a href="#">HTML</a></li>
+  </ul>
+</details>
 
+<details>
+  <summary>Style</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
 
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-  - **[Font-Style]**
+
+- **[Colorful_Text]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -66,26 +81,81 @@
 
 
 
+To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 
+In order to run this project you need:
+
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
 
 ### Setup
 
+Clone this repository to your desired folder:
+
+
+Example commands:
+
+```sh
+  cd my-folder
+  git clone git@github.com:bhobserver/hello-microverse.git
+```
+-
 
 ### Install
 
+Install this project with:
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
 
 ### Usage
 
+To run the project, execute the following command:
 
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
 
 ### Run tests
 
+To run tests, run the following command:
 
+<!--
+Example command:
+
+```sh
+  bin/rails test test/models/article_test.rb
+```
+--->
 
 ### Deployment
 
+You can deploy this project using:
 
+<!--
+Example:
+
+```sh
+
+```
+ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -98,15 +168,18 @@
 
 - GitHub: [@bhobserver](https://github.com/bhobserver)
 
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **[Navbar]**
-- **[About-myself-section]**
-- **[Responsive]**
+
+- [Responsiveness] **[new_feature_1]**
+- [Contact_info] **[new_feature_2]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -114,6 +187,7 @@
 
 ## 🤝 Contributing <a name="contributing"></a>
 
+Contributions, issues, and feature requests are welcome!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -123,6 +197,7 @@
 ## ⭐️ Show your support <a name="support"></a>
 
 
+If you like this project feel free to clone it and contribute to it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -131,7 +206,7 @@
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank Microverse
+I would like to thank Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,6 +216,7 @@ I would like to thank Microverse
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](MIT.md) licensed.
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
